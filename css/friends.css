@@ -1,14 +1,12 @@
-.friend {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
+.friends__plus {
+  padding: 20px 0px;
+  border-top: 1px solid #f7f7f7;
+  border-bottom: 1px solid #f7f7f7;
+  margin: 20px 0px;
 }
 
-.friend .friend__avatar {
-  width: 50px;
-  border-radius: 35%;
-}
-
-.friend__avatar.g-avatar {
-  /* width: 70px; */
+.friends__title {
+  font-size: 14px;
+  opacity: 0.6;
+  margin-bottom: 12px;
 }
